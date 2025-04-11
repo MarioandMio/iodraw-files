@@ -7,29 +7,29 @@
         <mxCell id="JrBvZOV12t8qgxcanEIK-1" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;实施内容&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="80" y="100" width="50" height="610" as="geometry" />
         </mxCell>
-        <mxCell id="JrBvZOV12t8qgxcanEIK-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.942;exitY=0.116;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JrBvZOV12t8qgxcanEIK-1">
+        <mxCell id="JrBvZOV12t8qgxcanEIK-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.942;exitY=0.116;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="390" as="sourcePoint" />
-            <mxPoint x="1080" y="170" as="targetPoint" />
+            <mxPoint x="130.10000000000014" y="170.76" as="sourcePoint" />
+            <mxPoint x="1083" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-3" value="&lt;b&gt;&lt;a name=&quot;_Toc195120013&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;信息采集&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="120" width="130" height="30" as="geometry" />
+          <mxGeometry x="133" y="120" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="250" y="105" width="780" height="60" as="geometry" />
+          <mxGeometry x="253" y="105" width="780" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-5" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;井场基础信息核查&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="112.5" width="150" height="45" as="geometry" />
+          <mxGeometry x="293" y="112.5" width="150" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-9" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;现场条件评估&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="112.5" width="150" height="45" as="geometry" />
+          <mxGeometry x="473" y="112.5" width="150" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-10" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;空间分布整理&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="112.5" width="150" height="45" as="geometry" />
+          <mxGeometry x="653" y="112.5" width="150" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-11" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;信息归档与输出&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="112.5" width="150" height="45" as="geometry" />
+          <mxGeometry x="830" y="112.5" width="150" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-12" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.942;exitY=0.116;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -54,6 +54,102 @@
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-18" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;信息归档与输出&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="227.5" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="JrBvZOV12t8qgxcanEIK-33" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.942;exitY=0.116;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="131" y="406" as="sourcePoint" />
+            <mxPoint x="1084" y="405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JrBvZOV12t8qgxcanEIK-34" value="&lt;b&gt;&lt;a name=&quot;_Toc195120013&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;信息采集&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="134" y="355" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JrBvZOV12t8qgxcanEIK-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="254" y="340" width="780" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JrBvZOV12t8qgxcanEIK-36" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;井场基础信息核查&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="294" y="347.5" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="JrBvZOV12t8qgxcanEIK-37" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;现场条件评估&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="347.5" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="JrBvZOV12t8qgxcanEIK-38" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;空间分布整理&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="654" y="347.5" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="JrBvZOV12t8qgxcanEIK-39" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;信息归档与输出&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="831" y="347.5" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="JrBvZOV12t8qgxcanEIK-40" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.942;exitY=0.116;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="536" as="sourcePoint" />
+            <mxPoint x="1083" y="535" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JrBvZOV12t8qgxcanEIK-41" value="&lt;b&gt;&lt;a name=&quot;_Toc195120013&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;信息采集&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="133" y="485" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JrBvZOV12t8qgxcanEIK-42" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="253" y="470" width="780" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JrBvZOV12t8qgxcanEIK-43" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;井场基础信息核查&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="293" y="477.5" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="JrBvZOV12t8qgxcanEIK-44" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;现场条件评估&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="473" y="477.5" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="JrBvZOV12t8qgxcanEIK-45" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;空间分布整理&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="653" y="477.5" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="JrBvZOV12t8qgxcanEIK-46" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;信息归档与输出&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="477.5" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="JrBvZOV12t8qgxcanEIK-47" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.942;exitY=0.116;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="666" as="sourcePoint" />
+            <mxPoint x="1083" y="665" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JrBvZOV12t8qgxcanEIK-48" value="&lt;b&gt;&lt;a name=&quot;_Toc195120013&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;信息采集&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="133" y="615" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JrBvZOV12t8qgxcanEIK-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="253" y="600" width="780" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JrBvZOV12t8qgxcanEIK-50" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;井场基础信息核查&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="293" y="607.5" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="JrBvZOV12t8qgxcanEIK-51" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;现场条件评估&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="473" y="607.5" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="JrBvZOV12t8qgxcanEIK-52" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;空间分布整理&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="653" y="607.5" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="JrBvZOV12t8qgxcanEIK-53" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;信息归档与输出&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="607.5" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="JrBvZOV12t8qgxcanEIK-54" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.942;exitY=0.116;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="197" y="241" as="sourcePoint" />
+            <mxPoint x="1150" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JrBvZOV12t8qgxcanEIK-55" value="&lt;b&gt;&lt;a name=&quot;_Toc195120013&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;信息采集&lt;/font&gt;&lt;/a&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="190" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JrBvZOV12t8qgxcanEIK-56" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="320" y="175" width="780" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JrBvZOV12t8qgxcanEIK-57" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;井场基础信息核查&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="182.5" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="JrBvZOV12t8qgxcanEIK-58" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;现场条件评估&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="182.5" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="JrBvZOV12t8qgxcanEIK-59" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;空间分布整理&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="182.5" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="JrBvZOV12t8qgxcanEIK-60" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;信息归档与输出&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="897" y="182.5" width="150" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
