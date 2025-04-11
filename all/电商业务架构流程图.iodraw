@@ -172,10 +172,10 @@
         <mxCell id="JrBvZOV12t8qgxcanEIK-82" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;问题闭环管理&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1180" y="595.5" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="JrBvZOV12t8qgxcanEIK-85" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=341.1764705882353;endSize=10.564705882352943;" edge="1" parent="1">
+        <mxCell id="JrBvZOV12t8qgxcanEIK-85" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=210.58823529411765;endSize=23.070588235294117;endWidth=56.2629757785467;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="80" y="284.90999999999997" as="sourcePoint" />
-            <mxPoint x="160" y="284.90999999999997" as="targetPoint" />
+            <mxPoint x="1480" y="374.5" as="sourcePoint" />
+            <mxPoint x="1610" y="376.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
