@@ -134,13 +134,19 @@
           <mxGeometry x="279" y="730" width="780" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-70" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;问题识别&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="319" y="737.5" width="171" height="45" as="geometry" />
+          <mxGeometry x="319" y="737.5" width="121" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-71" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;归因分析&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="737.5" width="150" height="45" as="geometry" />
+          <mxGeometry x="450" y="737.5" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-72" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;整改台账制定&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="737.5" width="150" height="45" as="geometry" />
+          <mxGeometry x="570" y="737.5" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="JrBvZOV12t8qgxcanEIK-73" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;回归验证&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="737.5" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="JrBvZOV12t8qgxcanEIK-74" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;回归验证&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="737.5" width="120" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
