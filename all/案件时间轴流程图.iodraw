@@ -1,0 +1,67 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:130.0) Gecko/20100101 Firefox/130.0" version="24.7.17">
+  <diagram id="P-FLB3ng-8zm5jahk_r2" name="Page-1">
+    <mxGraphModel dx="2261" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-258" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#67AB9F;gradientColor=none;fontFamily=Comic Sans MS;fontSize=20;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
+          <mxGeometry x="40" y="80" width="160" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-259" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#6666FF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=20;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
+          <mxGeometry x="200" y="80" width="160" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-260" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#6600CC;gradientColor=none;fontFamily=Comic Sans MS;fontSize=20;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
+          <mxGeometry x="360" y="80" width="160" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-261" value="" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#808080;gradientColor=none;fontFamily=Comic Sans MS;fontSize=20;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
+          <mxGeometry x="520" y="80" width="160" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-262" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rounded=0;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#ffffff;fontFamily=Comic Sans MS;fontSize=20;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="40" y="185" width="650" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-263" value="怪兽公司授权服装公司设计，制造怪兽服装" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#67AB9F;gradientColor=none;fontFamily=Comic Sans MS;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="40" y="105" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-264" value="&lt;font color=&quot;#000000&quot;&gt;数据采集&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=20;fontFamily=Comic Sans MS;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-80" y="150" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-265" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 20px;&quot;&gt;服装公司&lt;/font&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=20;fontFamily=Comic Sans MS;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="-80" y="290" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-266" value="服装公司无权擅自推出任何新款怪兽服装，除非经过该公司审核" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#67AB9F;gradientColor=none;fontFamily=Comic Sans MS;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="40" y="260" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-267" value="怪兽公司审核时间较长引起服装公司不满" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#6666FF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="200" y="100" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-268" value="服装公司未来抢占市场，多次推出新款怪兽服装" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#6666FF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="200" y="260" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-269" value="怪兽公司解除合同" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#6600CC;gradientColor=none;fontFamily=Comic Sans MS;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="360" y="100" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-270" value="服装公司不缴付第二期许可费" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#6600CC;gradientColor=none;fontFamily=Comic Sans MS;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="360" y="260" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-271" value="怪兽公司起诉" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#808080;gradientColor=none;fontFamily=Comic Sans MS;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="520" y="100" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-272" value="服装公司继续销售怪兽服饰" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#808080;gradientColor=none;fontFamily=Comic Sans MS;fontSize=16;fontColor=#FFFFFF;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="520" y="255" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-273" value="蜜月季" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#FF0000;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="50" y="210" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-274" value="矛盾季" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#FF0000;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="210" y="210" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-275" value="分手季" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#FF0000;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="380" y="210" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FI8OPE-p3hhHVf1YDgqs-276" value="结仇季" style="rounded=0;whiteSpace=wrap;html=1;comic=0;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;gradientColor=none;fontFamily=Comic Sans MS;fontSize=18;fontColor=#FF0000;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="540" y="210" width="120" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
