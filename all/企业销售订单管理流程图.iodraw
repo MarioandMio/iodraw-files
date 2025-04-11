@@ -34,7 +34,7 @@
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1261" value="&lt;font size=&quot;1&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;井场坐标位置采集与确认&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="380" y="378" width="140" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="HZyqP8lNtJwYMgKbey4X-1262" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;井号/名称&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;" parent="1" vertex="1">
+        <mxCell id="HZyqP8lNtJwYMgKbey4X-1262" value="&lt;font size=&quot;1&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;GIS点位绘图与聚类&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="471" y="239" width="123" height="65" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1263" value="" style="shape=trapezoid;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#FFFFFF;gradientColor=none;fontSize=27;align=left;rotation=173;" parent="1" vertex="1">
