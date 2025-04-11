@@ -152,22 +152,25 @@
           <mxGeometry x="1160" y="220" width="260" height="580" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-76" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;网络接入需求台账建立&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="240" width="210" height="45" as="geometry" />
+          <mxGeometry x="1180" y="240" width="230" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-77" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;资源可行性分析&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="310" width="210" height="45" as="geometry" />
+          <mxGeometry x="1180" y="310" width="225" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-78" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;组织运营商/承包商/平台方（IPPE、PCS）多方会审&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="385" width="210" height="65" as="geometry" />
+          <mxGeometry x="1180" y="380" width="230" height="65" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-79" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;现场调控与技术支持&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="477.5" width="210" height="40" as="geometry" />
+          <mxGeometry x="1180" y="477.5" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-80" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;异常归因与责任判定&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="542" width="210" height="42.5" as="geometry" />
+          <mxGeometry x="1180" y="542" width="230" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-81" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;问题闭环管理&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1185" y="615" width="210" height="40" as="geometry" />
+          <mxGeometry x="1180" y="697.5" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JrBvZOV12t8qgxcanEIK-82" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;问题闭环管理&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="620" width="230" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
