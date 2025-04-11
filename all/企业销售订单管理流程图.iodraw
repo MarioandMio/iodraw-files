@@ -25,14 +25,14 @@
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1258" value="" style="shape=trapezoid;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#FFFFFF;gradientColor=none;fontSize=27;align=left;rotation=66;" parent="1" vertex="1">
           <mxGeometry x="445" y="401" width="31" height="184" as="geometry" />
         </mxCell>
-        <mxCell id="HZyqP8lNtJwYMgKbey4X-1259" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;交通、电源、通信覆盖情况&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;" parent="1" vertex="1">
-          <mxGeometry x="463" y="540" width="109" height="65" as="geometry" />
+        <mxCell id="HZyqP8lNtJwYMgKbey4X-1259" value="&lt;font size=&quot;1&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;交通、电源、通信覆盖情况&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;" parent="1" vertex="1">
+          <mxGeometry x="447" y="522" width="140" height="65" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1260" value="" style="shape=trapezoid;whiteSpace=wrap;html=1;strokeColor=none;strokeWidth=1;fillColor=#FFFFFF;gradientColor=none;fontSize=27;align=left;rotation=117;" parent="1" vertex="1">
           <mxGeometry x="456" y="239" width="31" height="184" as="geometry" />
         </mxCell>
-        <mxCell id="HZyqP8lNtJwYMgKbey4X-1261" value="&lt;b&gt;&lt;font style=&quot;font-size: 26px&quot; color=&quot;#ffffff&quot;&gt;当前状态&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;" parent="1" vertex="1">
-          <mxGeometry x="390" y="388" width="115" height="65" as="geometry" />
+        <mxCell id="HZyqP8lNtJwYMgKbey4X-1261" value="&lt;font size=&quot;1&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;font-size: 22px;&quot;&gt;井场坐标位置采集与确认&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;" parent="1" vertex="1">
+          <mxGeometry x="380" y="378" width="140" height="65" as="geometry" />
         </mxCell>
         <mxCell id="HZyqP8lNtJwYMgKbey4X-1262" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;井号/名称&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=26;" parent="1" vertex="1">
           <mxGeometry x="471" y="239" width="123" height="65" as="geometry" />
