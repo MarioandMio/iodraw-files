@@ -107,19 +107,22 @@
           <mxGeometry x="279" y="600" width="780" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-50" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;月度网络接入问题梳理&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="319" y="607.5" width="150" height="45" as="geometry" />
+          <mxGeometry x="319" y="607.5" width="171" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="JrBvZOV12t8qgxcanEIK-51" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;现场条件评估&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="499" y="607.5" width="150" height="45" as="geometry" />
+        <mxCell id="JrBvZOV12t8qgxcanEIK-51" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;季度专题复盘&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="607.5" width="150" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="JrBvZOV12t8qgxcanEIK-52" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;空间分布整理&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="679" y="607.5" width="150" height="45" as="geometry" />
+        <mxCell id="JrBvZOV12t8qgxcanEIK-52" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;年末汇报总结&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="607.5" width="150" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-62" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;材料输出&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
           <mxGeometry x="1090" y="100" width="50" height="570" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-65" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;事件处置与闭环&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="477.5" width="150" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="JrBvZOV12t8qgxcanEIK-66" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;年末汇报总结&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="617.5" width="150" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
