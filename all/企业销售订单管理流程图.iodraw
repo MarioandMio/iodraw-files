@@ -71,28 +71,16 @@
           <mxGeometry x="890" y="404.75" width="60" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="rrDJfc0LCqA3hNgbofSl-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="170" width="250" height="550" as="geometry" />
+          <mxGeometry x="1030" y="130" width="250" height="550" as="geometry" />
         </mxCell>
-        <mxCell id="rrDJfc0LCqA3hNgbofSl-44" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;网络接入需求台账建立&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="177" width="230" height="45" as="geometry" />
+        <mxCell id="rrDJfc0LCqA3hNgbofSl-44" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;设备上架与布线&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="137" width="230" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="rrDJfc0LCqA3hNgbofSl-45" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;资源可行性分析&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="262" width="230" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="rrDJfc0LCqA3hNgbofSl-46" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;组织运营商/承包商/平台方（IPPE、PCS）多方会审&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="342" width="230" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="rrDJfc0LCqA3hNgbofSl-47" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;现场调控与技术支持&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="442" width="230" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rrDJfc0LCqA3hNgbofSl-48" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;异常归因与责任判定&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="514.5" width="230" height="42.5" as="geometry" />
+        <mxCell id="rrDJfc0LCqA3hNgbofSl-47" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;参数配置与调试&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="402" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rrDJfc0LCqA3hNgbofSl-49" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;数据统计与质量评估&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="672" width="230" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rrDJfc0LCqA3hNgbofSl-50" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 18px;&quot;&gt;问题闭环管理&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="594.5" width="230" height="40" as="geometry" />
+          <mxGeometry x="1040" y="632" width="230" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
