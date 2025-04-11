@@ -23,10 +23,10 @@
           <mxGeometry x="320" y="112.5" width="150" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-9" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;现场条件评估&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="112.5" width="150" height="45" as="geometry" />
+          <mxGeometry x="573" y="112.5" width="150" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-10" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;空间分布整理&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="856" y="112.5" width="150" height="45" as="geometry" />
+          <mxGeometry x="800" y="112.5" width="150" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-12" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.942;exitY=0.116;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -44,13 +44,13 @@
           <mxGeometry x="320" y="210.5" width="150" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-16" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;设备安装与布线&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="473" y="210.5" width="150" height="45" as="geometry" />
+          <mxGeometry x="480" y="210.5" width="150" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-17" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;参数配置与调试&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="623" y="210.5" width="150" height="45" as="geometry" />
+          <mxGeometry x="640" y="210.5" width="150" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-18" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;平台数据对接&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="857" y="210.5" width="150" height="45" as="geometry" />
+          <mxGeometry x="800" y="210.5" width="150" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-33" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.942;exitY=0.116;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -68,10 +68,10 @@
           <mxGeometry x="322" y="317.5" width="150" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-37" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;远程初诊&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="597" y="317.5" width="150" height="45" as="geometry" />
+          <mxGeometry x="563" y="317.5" width="150" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-38" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;现场检修&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="858" y="317.5" width="150" height="45" as="geometry" />
+          <mxGeometry x="800" y="317.5" width="150" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-40" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.942;exitY=0.116;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -89,10 +89,10 @@
           <mxGeometry x="323" y="431.32" width="150" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-44" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;三件套安装&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="503" y="431.32" width="150" height="45" as="geometry" />
+          <mxGeometry x="480" y="431.32" width="150" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-45" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;风险定位与上报&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="683" y="431.32" width="150" height="45" as="geometry" />
+          <mxGeometry x="640" y="431.32" width="150" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-47" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.942;exitY=0.116;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -110,16 +110,16 @@
           <mxGeometry x="322" y="546.32" width="171" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-51" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;季度专题复盘&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="593" y="546.32" width="150" height="45" as="geometry" />
+          <mxGeometry x="563" y="546.32" width="150" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-52" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;年末汇报总结&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="863" y="546.32" width="150" height="45" as="geometry" />
+          <mxGeometry x="800" y="546.32" width="150" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-62" value="&lt;font style=&quot;font-size: 40px;&quot;&gt;&lt;b&gt;资源统筹与外部资源协作&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1090" y="170" width="50" height="550" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-65" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;事件处置与闭环&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="863" y="431.32" width="150" height="45" as="geometry" />
+          <mxGeometry x="800" y="431.32" width="150" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-67" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.942;exitY=0.116;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -134,19 +134,19 @@
           <mxGeometry x="282" y="653.8199999999999" width="780" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-70" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;问题识别&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="322" y="661.3199999999999" width="121" height="45" as="geometry" />
+          <mxGeometry x="322" y="661.32" width="108" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-71" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;归因分析&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="453" y="661.3199999999999" width="110" height="45" as="geometry" />
+          <mxGeometry x="440" y="661.32" width="97" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-72" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;整改台账制定&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="573" y="661.3199999999999" width="150" height="45" as="geometry" />
+          <mxGeometry x="560" y="661.32" width="117" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-73" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;回归验证&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="738" y="661.3199999999999" width="120" height="45" as="geometry" />
+          <mxGeometry x="695" y="661.32" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-74" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;知识库整理&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="873" y="661.3199999999999" width="140" height="45" as="geometry" />
+          <mxGeometry x="810" y="661.3199999999999" width="140" height="45" as="geometry" />
         </mxCell>
         <mxCell id="JrBvZOV12t8qgxcanEIK-75" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1160" y="170" width="290" height="550" as="geometry" />
