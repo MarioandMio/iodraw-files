@@ -100,7 +100,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QmEndQr8cXAe1p8L7zfa-33" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QmEndQr8cXAe1p8L7zfa-32">
+        <mxCell id="QmEndQr8cXAe1p8L7zfa-33" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;提出问题&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QmEndQr8cXAe1p8L7zfa-32">
           <mxGeometry x="-0.05" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -122,14 +122,36 @@
         <mxCell id="QmEndQr8cXAe1p8L7zfa-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;关闭&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="135" y="630" width="150" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="QmEndQr8cXAe1p8L7zfa-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QmEndQr8cXAe1p8L7zfa-27" target="QmEndQr8cXAe1p8L7zfa-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QmEndQr8cXAe1p8L7zfa-35" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;新建问题&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QmEndQr8cXAe1p8L7zfa-34">
+          <mxGeometry y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="QmEndQr8cXAe1p8L7zfa-27" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;新建&lt;/font&gt;" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="862" y="45" width="100" height="65" as="geometry" />
+          <mxGeometry x="870" y="45" width="100" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="QmEndQr8cXAe1p8L7zfa-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QmEndQr8cXAe1p8L7zfa-28" target="QmEndQr8cXAe1p8L7zfa-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QmEndQr8cXAe1p8L7zfa-37" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;分析观察&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QmEndQr8cXAe1p8L7zfa-36">
+          <mxGeometry x="-0.08" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="QmEndQr8cXAe1p8L7zfa-28" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;新问题&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="870" y="170" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QmEndQr8cXAe1p8L7zfa-29" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;分析观察&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="860" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QmEndQr8cXAe1p8L7zfa-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="899" y="350" as="sourcePoint" />
+            <mxPoint x="899" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="QmEndQr8cXAe1p8L7zfa-30" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;处理中&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="860" y="350" width="120" height="40" as="geometry" />
