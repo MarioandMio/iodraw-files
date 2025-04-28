@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cRa5PH7-YnATYw7bagK1-1" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="220" y="30" width="130" height="80" as="geometry" />
+        <mxCell id="cRa5PH7-YnATYw7bagK1-3" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;SLA服务流程体系&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.extract_or_measurement;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="170" y="20" width="450" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
