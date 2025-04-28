@@ -223,6 +223,18 @@
         <mxCell id="QmEndQr8cXAe1p8L7zfa-56" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;变更执行&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="790" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="QmEndQr8cXAe1p8L7zfa-57" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;变更记录&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="600" y="880" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QmEndQr8cXAe1p8L7zfa-58" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;测试&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="860" y="880" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QmEndQr8cXAe1p8L7zfa-59" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;拒绝&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="860" y="610" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QmEndQr8cXAe1p8L7zfa-60" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;拒绝&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="414" y="700" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
