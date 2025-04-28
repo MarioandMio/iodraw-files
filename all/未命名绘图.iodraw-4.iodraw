@@ -28,8 +28,11 @@
         <mxCell id="QmEndQr8cXAe1p8L7zfa-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;新建&lt;/font&gt;" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="160" width="100" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="QmEndQr8cXAe1p8L7zfa-7" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="158" y="260" width="100" height="100" as="geometry" />
+        <mxCell id="QmEndQr8cXAe1p8L7zfa-7" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;运维团队受理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="260" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QmEndQr8cXAe1p8L7zfa-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;驻点运维团队受理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="360" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
