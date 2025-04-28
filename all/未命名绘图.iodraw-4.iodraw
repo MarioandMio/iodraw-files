@@ -13,7 +13,7 @@
             <mxPoint x="1010" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QmEndQr8cXAe1p8L7zfa-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.341;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="QmEndQr8cXAe1p8L7zfa-0">
+        <mxCell id="QmEndQr8cXAe1p8L7zfa-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.341;entryY=-0.001;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.338;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QmEndQr8cXAe1p8L7zfa-0" target="QmEndQr8cXAe1p8L7zfa-0">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="375" y="710" as="sourcePoint" />
             <mxPoint x="376.20000000000005" y="58.82000000000005" as="targetPoint" />
@@ -92,7 +92,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QmEndQr8cXAe1p8L7zfa-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QmEndQr8cXAe1p8L7zfa-9" target="QmEndQr8cXAe1p8L7zfa-28">
+        <mxCell id="QmEndQr8cXAe1p8L7zfa-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=#FF3333;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="QmEndQr8cXAe1p8L7zfa-9" target="QmEndQr8cXAe1p8L7zfa-28">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="540" y="460" />
@@ -100,7 +100,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QmEndQr8cXAe1p8L7zfa-33" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;提出问题&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QmEndQr8cXAe1p8L7zfa-32">
+        <mxCell id="QmEndQr8cXAe1p8L7zfa-33" value="&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#ff3333&quot;&gt;提出问题&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="QmEndQr8cXAe1p8L7zfa-32">
           <mxGeometry x="-0.05" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -207,6 +207,9 @@
         </mxCell>
         <mxCell id="QmEndQr8cXAe1p8L7zfa-42" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;挂起&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QmEndQr8cXAe1p8L7zfa-51" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;新建&lt;/font&gt;" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="880" y="55" width="100" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
