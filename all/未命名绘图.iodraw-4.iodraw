@@ -115,8 +115,14 @@
         <mxCell id="QmEndQr8cXAe1p8L7zfa-28" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;新问题&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="870" y="170" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QmEndQr8cXAe1p8L7zfa-29" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;新问题&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="880" y="180" width="100" height="40" as="geometry" />
+        <mxCell id="QmEndQr8cXAe1p8L7zfa-29" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;分析观察&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="860" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QmEndQr8cXAe1p8L7zfa-30" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;处理中&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="860" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QmEndQr8cXAe1p8L7zfa-31" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;关闭&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="870" y="450" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
